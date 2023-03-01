@@ -1,5 +1,4 @@
-# EvolutionaryComputingWoWShaman
-Using Evolutionary Computing To Find The Ideal Shaman Healing Spell Rotation In World of Warcraft
+# Using Evolutionary Computing To Find The Ideal Shaman Healing Spell Rotation In World of Warcraft
 
 This study proposes the creation of an evolutionary algorithm to
 find what the best single target healing spell rotation for shamans
