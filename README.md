@@ -11,7 +11,7 @@ globally optimal spell rotation was not uncovered, the proposed
 algorithm seems capable of solving the task given more compute
 power and time.
 
-
+[The final paper can be viewed here](CISC_851_FINAL_PROJECT.pdf)
 
 Executing the code:
 To run the main evolutionary algorithm the python file can be ran as is. 
